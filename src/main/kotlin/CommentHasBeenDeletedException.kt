@@ -1,0 +1,1 @@
+class CommentHasBeenDeletedException (override val message : String) : RuntimeException (message)

@@ -1,0 +1,1 @@
+class CommentNotRemovedException (override val message : String) : RuntimeException (message)
